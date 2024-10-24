@@ -1,2 +1,2 @@
-# self_driving_car_course
+# Self-Driving Car Course
 Code for projects of Self-Driving Car course on Udemy
